@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baron Tomlin's learned speech to the sheriffs of London and Middlesex, vvhen they came to be sworn at the Exchequer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78188</idno>
+            <idno type="STC">Wing B900</idno>
+            <idno type="STC">Thomason E1001_13</idno>
+            <idno type="STC">ESTC R9964</idno>
+            <idno type="EEBO-CITATION">99873639</idno>
+            <idno type="PROQUEST">99873639</idno>
+            <idno type="VID">168729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1001[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Baron Tomlin's learned speech to the sheriffs of London and Middlesex, vvhen they came to be sworn at the Exchequer.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Richard Cursitor Tomlin, Baron of the Exchequer.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 31".</note>
+                  <note>Reproductions of the originals in the Newburry Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tomlin, Richard Cursitor --  Humor --  Early works to 1800.</term>
+               <term>Sheriffs --  England --  London --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168729:1" rendition="simple:additions"/>
+            <p>BARON <hi>TOMLINS</hi> Learned SPEECH To the SHERIFFS OF LONDON AND MIDDLESEX, VVhen they came to be Sworn AT THE EXCHEQUER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:168729:2"/>
+            <pb n="3" facs="tcp:168729:2"/>
+            <head>
+               <hi>Baron</hi> Tomlin's <hi>LEARNED SPEECH</hi> To the Sheriffs of <hi>London,</hi> &amp;c.</head>
+            <opener>
+               <salute>How do you <hi>Mr. Warner?</hi> God ſave you <hi>Mr. Love.</hi> GEntlemen Citizens,</salute>
+            </opener>
+            <p> I obſerve in you three things; Firſt that yee are well clad; from whence I note that yee are no Slovens. Truly I wiſh I were a Sheriff, ſo it were not chargeable, and that I might alwayes be in the Office, for certainly a Sheriff can never be a cold, his gown is ſo warm: and a my word yours ſeem to be excellent good Scarlet. Some men may ask why you wear red Gowns, and not blew, or green. As for blew, it is a colour that ſignifies Conſtancie; now Conſtancie cannot be attributed to Sheriffs; for a Sheriff, is a Sheriff this year, and none the next. As for Green, it is <hi>Mahomets</hi> colour, and ſo too Heatheniſh for a Chriſtian. I confeſſe <hi>Fuillemoth,</hi> which ſignifies de<g ref="char:EOLhyphen"/>cay, had been the moſt proper colour for a Sheriff, becauſe he puts off his Gown with the fall of the
+<pb n="4" facs="tcp:168729:3"/> leaf; and ſecondly, becauſe it may decay his Eſtate, if he be too expenſive in his Office. But next to that, Red is the moſt convenient colour; for indeed moſt handſome and delectable things are Red, as Roſes, Pomgranates, Maidenheads, the Lips, the Tongue, <hi>&amp;c.</hi> ſo that indeed our Anceſtors did wiſe<g ref="char:EOLhyphen"/>ly to clothe Magiſtrates with this decent and becom<g ref="char:EOLhyphen"/>ming colour. 'Tis true I have a Gown too, but they make me wear the worſt of any Baron of th' Exche<g ref="char:EOLhyphen"/>quer, 'tis plaincloth as yee ſee without any lining; y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t my comfort is, I am ſtill a Baron, and I hope I ſhall be ſo, as long as I live; when I am dead, I care not who's Baron, or whether there be a Baron or no. The next thing I obſerve is, that yee look plump and ruddy, from whence I give a ſhrewd gueſſe, that yee feed well, and truly if you do ſo, then you do well, which is my third and laſt obſer<g ref="char:EOLhyphen"/>vation concerning yee. But do you know wherefore you come hither? I don't queſtion but you do; how<g ref="char:EOLhyphen"/>ever, you muſt give me leave to tell yee, for in this place I am a better man than either of you both, or indeed both of you put together. Why then I will tell yee; you come hither to take your oaths before me: Gentlemen I am the Puiſne Baron of the Che<g ref="char:EOLhyphen"/>quer, that is to ſay, the meaneſt Baron; for though I am not guilty of interpreting many hard words, yet this hath been ſo continually beaten in<g ref="char:EOLhyphen"/>to my head, that I doe very well underſtand it; However I could brook my means well enough (for ſome men tell me that I deſerve no better) were it not the cauſe of my lifes greateſt miſery, for here I am conſtrain'd, or elſe I muſt loſe my imploy<g ref="char:EOLhyphen"/>ment, to make Speeches in my old age, and when I
+<pb n="5" facs="tcp:168729:3"/> have one foot in the grave, to ſtand here with the other talking in publike. Truly Gentlemen 'tis a ſad thing, you ſee what a forc'd put I am put to, even God help me out of this ſinful world, for when my bones are at reſt, my tongue will be at quiet. I re<g ref="char:EOLhyphen"/>member, Gentlemen, when I was a Child, if my Mother had asked me if I would have any Victuals that pleaſed me not, why then I would grow ſullen, and make no anſwer; then would ſhe ſay, <hi>Sirrha will you have it? Speak;</hi> ſtill not a word from me; <hi>nay then</hi> (ſaid ſhe) <hi>if you won't ſpeak, you ſhall have nothing;</hi> this is my condition now, either ſpeak or have no<g ref="char:EOLhyphen"/>thing, that is be no Baron. I have prayed to God to mend my weak capacity, now if I ſpeak better to day than I us'd to do, you will know that he hath heard my prayers, if not, then 'tis as it was. How<g ref="char:EOLhyphen"/>ever, ſince it is my misfortune, I ſhall talk to yee as well as I can: But friends, you muſt not expect that I ſhould ball to you like the fellows that cry Carrots and Turneps in the Street, for that would be trou<g ref="char:EOLhyphen"/>bleſome to me, and perhaps cauſe the Almonds of my ears to fall, with over ſtraining my impotent Lungs. And now it comes into my mind, I deſire you when you are in your Office, not to let thoſe fellows yaul ſo in a morning, for beſides that, they will not let the people ſleep, the <hi>Crie of Wiſdome</hi> can never be heard in your Streets for the perpetual bal<g ref="char:EOLhyphen"/>ing thoſe Carters keep; and truly, if you do not re<g ref="char:EOLhyphen"/>medy it, I am afraid you will as ſoon hear the la<g ref="char:EOLhyphen"/>mentation of wild Nightingales, as the voice of wiſ<g ref="char:EOLhyphen"/>dome in your City; Yet though I do not ball, do not think I will whiſper neither, for then 'twere impoſ<g ref="char:EOLhyphen"/>ſible you ſhould hear me, and I ſhould ſeem to ſit
+<pb n="6" facs="tcp:168729:4"/> upon the Bench like a Madman talking to my ſelf; beſides, the Proverb ſayes, that where ther's whiſpe<g ref="char:EOLhyphen"/>ring, there's lying. Truly Gentlemen I am an old man, and have liv'd long in the world, and I can aſ<g ref="char:EOLhyphen"/>ſure you I have obſerv'd theſe Proverbs, and find them to be wiſe ſayings. I remember when I was a goung youth, 'tis a great while agoe Gentlemen, I warrant yee 'tis above five and forty years agoe, my Mother ſaw me fooling with a knife; <hi>Lay down the knife, boy,</hi> ſaid ſhe, <hi>'tis a dangerous thing to play with edg'd tools.</hi> Truly Gentlemen <hi>I</hi> believe you find the truth of this; for had your City never medled with <hi>edg'd tools,</hi> they and you <hi>I</hi> believe had been in a more thriving condition than now. At firſt you play'd with theſe <hi>edg'd tools</hi> in your Military and Ar<g ref="char:EOLhyphen"/>tilery grounds, and made ſport with them before your wives; but <hi>I</hi> think they have made ſport with you ſince. Truly for my part <hi>I</hi> cann't tell what to do for theſe <hi>edg'd tools;</hi> and <hi>I</hi> believe you are in a <hi>quan<g ref="char:EOLhyphen"/>dary</hi> too; for my part <hi>I</hi> reſolve never to meddle with them, and <hi>I</hi> hope God has given you ſo much grace and Cowardice, as to do ſo too; King <hi>James</hi> would never meddle with them you know: now if you won't take my fooliſh advice, take his wiſe Counſel. But to return where <hi>I</hi> left, <hi>I</hi> ſay <hi>I</hi> will neither ball, nor ſpeak ſoftly, but talk in an indifferent tone between both, that you may hear me, and I may hear <hi>my ſelf,</hi> and ſo we may all hear one another; and truly ther's great reaſon for't, for by hearing we convey our rea<g ref="char:EOLhyphen"/>ſon one to another. Now that I have reaſon, I ſhall prove; for every man is a rational Creature, now I am a man, therefore I am a reaſonable Creature. Gentlemen this makes as much for you as for me;
+<pb n="7" facs="tcp:168729:4"/> for by this do I prove <hi>you</hi> likewiſe to be <hi>rational Creatures,</hi> and ſo fit to be Sheriffs; Thus I find yee qualified for your Office. And truly Gentlemen, Sheriffs are men of very great Antiquity and Authority; Some are of o<g ref="char:EOLhyphen"/>pinion that Sheriffs were invented in <hi>Tyre</hi> and <hi>Zidon;</hi> truly Gentlemen, it ſtands with reaſon, for I am ſure they were the firſt inventors of Scar<g ref="char:EOLhyphen"/>let; but to leave this opinion, I do find in the Bible how <hi>Joſeph</hi> was by <hi>Pharaoh</hi> King of <hi>Aegypt</hi> made Sheriff of <hi>Gran Cairo;</hi> And <hi>Daniel</hi> alſo was by <hi>Nebuchadnezar</hi> King of <hi>Aſſyria</hi> made Sheriff of <hi>Babylon.</hi> In the firſt place their habit proves this to be true, for they wore the ſame badges of their Authority as you have, that is to ſay <hi>Scarlet Gowns</hi> and <hi>gold Chains.</hi> I will not diſpute whether their <hi>Gowns</hi> were lin'd with <hi>fur</hi> or no, neither was it material, nor indeed ſo requiſite, the hotneſs of thoſe Countries not permitting that formality. Secondly we read how <hi>Joſeph</hi> arreſted his Brothers for carrying away his plate, which he could not have done, had he not had <hi>Bailiffs</hi> and <hi>Serjeants</hi> under him, Officers peculiar to a <hi>Sheriff;</hi> and to make it more evident, we do not find that he took out his <hi>Writ</hi> out of any other <hi>Office,</hi> but his own, which he could not have warranted, had he not been Sheriff himſelf. But you will ſay, where were the <hi>two</hi> Sheriffs, to parallel our <hi>two</hi> Sheriffs? to that I anſwer, where was there a <hi>County of Middleſex</hi> belonging to either of thoſe Cities for the o<g ref="char:EOLhyphen"/>ther perſon to be Sheriff of? was it requiſite there ſhould be two Sheriffs in thoſe places, where there was never a <hi>County of Middleſex,</hi> becauſe there are two Sheriffs of <hi>London,</hi> where there is a County of <hi>Middleſex?</hi> No, for it is the County makes the Sheriff, not the Sheriff makes the County. This Gentlemen is Law. Now Gentlemen I ſhall tell yee more than ever you heard before, to ſhew you that I have not ſpent my time in idleneſſe, which is this, that as there is an Arch-Angel, and an Arch-Biſhop, and an Arch-Deacon, ſo is there an Arch-Sheriff, which is <hi>Satan</hi> or <hi>Beelzebub</hi> the Prince of the Air; this is evident from the duty of his imployment; for as it is your duty to puniſh offenders and Sin<g ref="char:EOLhyphen"/>ners in this world, ſo it is his duty to puniſh ſinners and offenders both in this world and in the world to come. And now <hi>I ſpeak of your imploy<g ref="char:EOLhyphen"/>ment,</hi> I ſhall tell you what it is; Firſt you are the chief <hi>Jaylors</hi> of the Nation, and it is your duty to keep thoſe perſons that are committed to your charge, as cloſe, as your wives lock up their beſt Jewels; To this purpoſe <hi>Mr. Warner,</hi> are the two <hi>Counters</hi> at your diſpoſal, and <hi>New<g ref="char:EOLhyphen"/>gate, Mr. Love,</hi> is appointed for your <hi>Portion.</hi> Secondly you are the chief Executioners of Sentences upon Malefactors, whether it be whip<g ref="char:EOLhyphen"/>ping, burning, or hanging, thus Mr. Sheriffs, doth <hi>Tyburn</hi> become your Lot. And now we talk of hanging, Mr. Sheriff, I ſhall intreat a fa<g ref="char:EOLhyphen"/>vour of you; I have a Kinſman at your end of the Town a <hi>Rope maker,</hi>
+               <pb n="8" facs="tcp:168729:5"/> I know you will have many occaſions before this time twelve month, and I hope I have ſpoken in time, pray make uſe of him, you'l do the poor man a favour, and your ſelf no prejudice. Pray Gentlemen what have you to dinner? for I profeſs I forgot to go to Market yeſterday, that I might get my ſpeech by heart. Truly Gentlemen I count it no diſhonour to go to market my ſeſf; there is no truſting to ſervants; had you lived as long in the world as I have done, you would ſay ſo; when I was a young man as you are, I thought ſcorn to go to Market then as well as you; but ſince I went my ſelf, I find that my ſervants cheated me of I war<g ref="char:EOLhyphen"/>rant you five pound in a year, they would reckon me two ſhillings for a leg of Mutton, which I can buy as good a one now for five groats and two pence. One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Eleven, Twelve a clock, well God buy to ye Gentlemen; but ſtay, I have forgot the main thing ye came for: I muſt give you your oath. Lord what a crazie memory have I? but you muſt excuſe me Gentle<g ref="char:EOLhyphen"/>men, my thoughts are not ubiquitary, they cannot be in your Kitchin and my head both at one time. Gentlemen there are ſeveral ſorts of oaths; there's the Protectors oath, <hi>by the living God,</hi> there's the Cavaleers oath, <hi>God damm me;</hi> and her's the Chambermaids oath, <hi>As I am honeſt.</hi> Then there is an oath which you are to ſwear, and which all men ſwear that take upon them employments of truſt; <hi>So help me God.</hi> Now ſome men ſay this is not an oath, but I ſay it is; So ſome men ſay that <hi>Faith</hi> is no oath, but my conſcience tells me the con<g ref="char:EOLhyphen"/>trary. Truly there are ſo many opinions that a man cannot tell which to believe. However I have ſworn this oath twenty times, and would do twenty times more, before I would loſe my place. But why do I uſe perſuaſion? I ſee you are come with a reſolution to ſwear, and I am come to ſwear ye, and ſo we are agreed. Well now you have heard what thoſe things are which you muſt ſwear; lay your hands on the book and ſay, <hi>As God help us Mr. Baron, wee will perform all theſe things as well as we can.</hi> Thus Mr. Sheriffs you hear what you have ſworn; pray be diligent and carefull to obſerve every particular, fear God, obey your Superiors, and Rule your City with prudence; that as you are She<g ref="char:EOLhyphen"/>riffs you may become Mayors, and being Mayors may be Knighted, and being Knighted, may die full of age and worſhip, and be buryed with Scocheons. Now Mr. Sheriffs get ye home, kiſs your wives, and by that time the Cloth's layd Ile be with ye, and ſo God buy till I ſee ye again.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
